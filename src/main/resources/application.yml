@@ -14,7 +14,7 @@ spring:
 
 server:
     address: ${APP_ADDRESS}
-        port: ${APP_PORT}
+    port: ${APP_PORT}
     compression:
         enabled: true
     error:
